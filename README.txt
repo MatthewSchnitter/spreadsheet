@@ -4,7 +4,7 @@ Partner:    None
 Date:       2/18/2022
 Course:     CS 3500, University of Utah, School of Computing
 GitHub ID:  MatthewSchnitter
-Repo:       https://github.com/Utah-School-of-Computing-de-St-Germain/spreadsheet-MatthewSchnitter
+Repo:       https://github.com/MatthewSchnitter/spreadsheet
 Commit #:   fbbff5384d15445bdcc56da904fa791dcfd55070
 Project:    Spreadsheet
 Copyright:  CS 3500 and Matthew Schnitter - This work may not be copied for use in Academic Coursework.
